@@ -8,7 +8,7 @@ export class Home extends React.Component<RouteComponentProps<{}>, {}> {
             <h1>Beer Buddy</h1>
             <img src="../Views/Image/kittenwithbeer.jpg" frameBorder="0.5" />
             <br /><br /><br />
-            <div UserInfo >
+            <div>
             <form method="GET|POST">
                 Username: <input type="text" name="user_id" />
                 <br /> <br />
