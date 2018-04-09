@@ -6,7 +6,7 @@ export class Home extends React.Component<RouteComponentProps<{}>, {}> {
         return <div>
             
             <h1>Beer Buddy</h1>
-            <img src="../Views/Image/kittenwithbeer.jpg" frameBorder="0.5" />
+            <img src="..\..\Views\Image\kittenwithbeer.jpg" frameBorder="0.5" />
             <br /><br /><br />
             <div>
             <form method="GET|POST">
